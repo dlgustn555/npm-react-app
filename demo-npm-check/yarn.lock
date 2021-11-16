@@ -1215,10 +1215,10 @@
   "resolved" "https://registry.npmjs.org/@csstools/normalize.css/-/normalize.css-10.1.0.tgz"
   "version" "10.1.0"
 
-"@dlgustn555/input-list@^1.0.7":
-  "integrity" "sha512-V93M4dXZKzLdYoANaA6GzQSrACgZPhxOkf/26Dxm1WKp9yIMErGZce/I8hfBUkM3vV45l4tDQuMJfGitUcarbA=="
-  "resolved" "https://registry.npmjs.org/@dlgustn555/input-list/-/input-list-1.0.7.tgz"
-  "version" "1.0.7"
+"@dlgustn555/input-list@^1.0.8":
+  "integrity" "sha512-WeCHd2zsiKbBddQabO42SI8l0W4g8uQJPUDW/fSUr/0DhBMwqdOfjNuFzMZxq/pRDxF62ADB57eYxevPfBxmeQ=="
+  "resolved" "https://registry.npmjs.org/@dlgustn555/input-list/-/input-list-1.0.8.tgz"
+  "version" "1.0.8"
 
 "@eslint/eslintrc@^0.3.0":
   "integrity" "sha512-1JTKgrOKAHVivSvOYw+sJOunkBjUOvjqWk1DPja7ZFhIS2mX/4EgTT8M7eTK9jrKhL/FvXXEbQwIs3pg1xp3dg=="
@@ -6607,6 +6607,7 @@
     "jest-snapshot" "^26.6.2"
 
 "jest-resolve@*":
+  "integrity" "sha512-tRAz2bwraHufNp+CCmAD8ciyCpXCs1NQxB5EJAmtCFy6BN81loFEGWKzYu26Y62lAJJe4X4jg36Kf+NsQyiStQ=="
   "version" "26.6.0"
   dependencies:
     "@jest/types" "^26.6.0"
