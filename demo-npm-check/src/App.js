@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <InputBox />
+      <p>맞아??</p>
     </div>
   );
 }
