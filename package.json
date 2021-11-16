@@ -1,0 +1,18 @@
+{
+  "name": "@dlgustn555/input-list",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "contributors": [
+    "dlgustn555 <dlgustn555@naver.com>",
+    "hanalim <hana0603@naver.com>"
+  ]
+}
