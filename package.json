@@ -1,6 +1,6 @@
 {
   "name": "@dlgustn555/input-list",
-  "version": "2.0.1",
+  "version": "2.1.6",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
@@ -16,8 +16,6 @@
     "hanalim <hana0603@naver.com>"
   ],
   "devDependencies": {
-    "@babel/cli": "^7.16.0",
-    "@babel/preset-react": "^7.16.0",
     "@types/react": "^17.0.35"
   },
   "dependencies": {
